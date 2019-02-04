@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab1JPAN</string>
+    <string name="main_text1">Name</string>
+    <string name="target_text1">Something</string>
+    <string name="Main_Button1">Send</string>
+    <string name="Target_Button1">Back</string>
+</resources>
